@@ -1,0 +1,11 @@
+/* simple reset / minimal styles (no Tailwind) */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f6f7fb;
+  color: #111;
+}
+input, textarea, select, button {
+  font-family: inherit;
+}
